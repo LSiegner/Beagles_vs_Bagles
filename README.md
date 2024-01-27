@@ -1,4 +1,4 @@
-# Beagles_vs_Bagles
+# Beagles vs Bagles
 All in all this is learngin/ fun project mostly for me (Also a first draft) <br>
 
 ## Project definition

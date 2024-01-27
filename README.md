@@ -9,7 +9,7 @@ It tries to help get confident in TDD and other methods as well as deepen my kno
 ## Project Build
 
 ### Data Pipeline
-The data Pipeline consists of a webcrawler and a download. They are both using the API provided by GettyImages etc. to find all suitable images, under a given set of keywords and are then downloaded, given they don't already exist within the data set. To remove these duplicates a data warehouse will therefore be needed (see following point). After finding all the images suitable for download, the metadata database will then be searched for duplicates of the images using authors and name of the images. 
+The data Pipeline consists of a webcrawler and a download. They are both using the API provided by GettyImages etc. to find all suitable images, under a given set of keywords and are then downloaded, given they don't already exist within the data set. To remove these duplicates a data warehouse will therefore be needed (see following point). After finding all the images suitable for download, the metadata database will then be searched for duplicates of the images using author, keywords and name of the image.
 
 ### Data Warehouse
 

@@ -15,3 +15,5 @@ The data Pipeline consists of a webcrawler and a download. They are both using t
 The data warehouse mainly consists of three parts, first one is the image database, which will be "hosted" inside folders and the later is the metadata database, which contains image name, author, keywords and last but not least the answer from the classifier algorithm. These metrics are then be used to determine quality of the dataset, precision and accuracy of the algorithm etc.
 
 ### Machine Learning/ Deep Learning algorithm
+
+In this part we will take a look at different approaches to classify the images. For this we will take a look at machine learning algorithms such as logistic regression and so on and later compare them with Deep Learning alogrithms such as neural nets
